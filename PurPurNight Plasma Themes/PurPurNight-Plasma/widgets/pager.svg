@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="30.700001"
+   height="46"
+   version="1"
+   id="svg31"
+   sodipodi:docname="pager.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs35" />
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.6535448"
+     inkscape:cx="14.088089"
+     inkscape:cy="35.53099"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31"
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
+    <inkscape:grid
+       type="xygrid"
+       id="grid848"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
+  </sodipodi:namedview>
+  <path
+     id="normal-left"
+     style="opacity:0.1;fill:#dfdfdf"
+     d="m 8.6000095,12.5 v 4.999999 h 1 V 12.5 Z" />
+  <path
+     id="normal-right"
+     style="opacity:0.1;fill:#dfdfdf"
+     d="m 21.600009,12.5 v 4.999999 h -1 V 12.5 Z" />
+  <rect
+     id="normal-bottom"
+     style="opacity:0.1;fill:#dfdfdf"
+     width="11"
+     height="1"
+     x="9.6000023"
+     y="17.5" />
+  <path
+     id="normal-top"
+     style="opacity:0.1;fill:#dfdfdf"
+     d="m 9.6000095,11.5 v 1 H 20.599982 v -1 z" />
+  <path
+     id="hover-left"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1"
+     d="M 8.6000095,20.500001 V 25.5 h 1 v -4.999999 z" />
+  <path
+     id="hover-right"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1"
+     d="M 21.600009,20.500001 V 25.5 h -1 v -4.999999 z" />
+  <path
+     id="hover-top"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1"
+     d="m 9.6000095,19.5 v 0.998752 H 20.599987 V 19.5 Z" />
+  <path
+     id="active-left"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     d="m 8.6,28.5 v 4.999999 h 1 V 28.5 Z" />
+  <path
+     id="active-right"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     d="m 21.599999,28.5 v 4.999999 h -1 V 28.5 Z" />
+  <rect
+     id="active-bottom"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     width="11"
+     height="1.001"
+     x="9.6000023"
+     y="33.499996" />
+  <path
+     id="active-top"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     d="m 9.6,27.5 v 1 h 10.999976 v -1 z" />
+  <rect
+     id="normal-center"
+     style="opacity:0.1;fill:#dfdfdf"
+     width="11"
+     height="5"
+     x="9.6000023"
+     y="-17.5"
+     transform="scale(1,-1)" />
+  <rect
+     id="active-center"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     width="11"
+     height="5"
+     x="9.6000023"
+     y="-33.499996"
+     transform="scale(1,-1)" />
+  <rect
+     id="hover-center"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1"
+     width="11"
+     height="5"
+     x="9.6000023"
+     y="-25.5"
+     transform="scale(1,-1)" />
+  <g
+     id="hover-bottom"
+     transform="matrix(2.1999957,0,0,0.99875155,7.4000138,9.053059)"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1">
+    <rect
+       style="opacity:1;fill:#8585c7;fill-opacity:1"
+       width="5"
+       height="1.001"
+       x="1"
+       y="16.469999"
+       id="rect16" />
+  </g>
+  <path
+     id="hover-bottomleft"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1"
+     d="m 8.6000095,25.5 c 0,0.552285 0.4477153,1 1,1 v -1 z" />
+  <path
+     id="hover-topleft"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1"
+     d="m 8.6000095,20.5 c 0,-0.552285 0.4477153,-1 1,-1 v 1 z" />
+  <path
+     id="hover-topright"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1"
+     d="m 21.600009,20.5 c 0,-0.552285 -0.447716,-1 -1,-1 v 1 z" />
+  <path
+     id="hover-bottomright"
+     style="opacity:0.7;fill:#8585c7;fill-opacity:1"
+     d="m 21.600009,25.5 c 0,0.552285 -0.447716,1 -1,1 v -1 z" />
+  <path
+     id="normal-bottomleft"
+     style="opacity:0.1;fill:#dfdfdf"
+     d="m 8.6000095,17.5 c 0,0.552285 0.4477153,1 1,1 v -1 z" />
+  <path
+     id="normal-topleft"
+     style="opacity:0.1;fill:#dfdfdf"
+     d="m 8.6000095,12.5 c 0,-0.552285 0.4477153,-1 1,-1 v 1 z" />
+  <path
+     id="normal-topright"
+     style="opacity:0.1;fill:#dfdfdf"
+     d="m 21.600009,12.5 c 0,-0.552285 -0.447716,-1 -1,-1 v 1 z" />
+  <path
+     id="normal-bottomright"
+     style="opacity:0.1;fill:#dfdfdf"
+     d="m 21.600009,17.5 c 0,0.552285 -0.447716,1 -1,1 v -1 z" />
+  <path
+     id="active-bottomleft"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     d="m 8.6000095,33.5 c 0,0.552285 0.4477153,1 1,1 v -1 z" />
+  <path
+     id="active-topleft"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     d="m 8.6000095,28.5 c 0,-0.552285 0.4477153,-1 1,-1 v 1 z" />
+  <path
+     id="active-topright"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     d="m 21.600009,28.5 c 0,-0.552285 -0.447716,-1 -1,-1 v 1 z" />
+  <path
+     id="active-bottomright"
+     style="opacity:0.703458;fill:#5c5c88;fill-opacity:1"
+     d="m 21.600009,33.5 c 0,0.552285 -0.447716,1 -1,1 v -1 z" />
+</svg>

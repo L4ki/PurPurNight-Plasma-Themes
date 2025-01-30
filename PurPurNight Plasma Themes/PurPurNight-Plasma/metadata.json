@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "EnabledByDefault": true,
+        "Name": "PurPurNight-Plasma",
+        "Description": "PurPurNight-Plasma",
+        "Id": "PurPurNight-Plasma",
+        "Version": "1.0",
+        "License": "GPL-3.0+",
+        "Website": "https://github.com/PurPurNight-Plasma-Themes"
+    },
+    "X-Plasma-API": "5.0"
+}
