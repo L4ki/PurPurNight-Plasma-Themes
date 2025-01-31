@@ -20,16 +20,16 @@
         "Website": "https://github.com/L4ki/PurPurNight-Plasma-Themes"
     },
     "X-KPackage-Dependencies": [
-        "kns://window-decorations.knsrc/api.kde-look.org/2234783",
-        "kns://window-decorations.knsrc/api.kde-look.org/2234786",
-        "kns://colorschemes.knsrc/api.kde-look.org//2234776",
+        "kns://window-decorations.knsrc/api.kde-look.org/2255173",
+        "kns://window-decorations.knsrc/api.kde-look.org/2255177",
+        "kns://colorschemes.knsrc/api.kde-look.org//2255149",
         "kns://icons.knsrc/api.kde-look.org/2234790",
         "kns://icons.knsrc/api.kde-look.org/2234789",
         "kns://icons.knsrc/api.kde-look.org/2192428",
-        "kns://plasma-themes.knsrc/api.kde-look.org/2234808",
-        "kns://wallpaper.knsrc/api.kde-look.org/2234768",
-        "kns://wallpaper.knsrc/api.kde-look.org/2234768",
-        "kns://wallpaper.knsrc/api.kde-look.org/2234768",
-        "kns://sddmtheme.knsrc/api.kde-look.org/2234772"
+        "kns://plasma-themes.knsrc/api.kde-look.org/2255181",
+        "kns://wallpaper.knsrc/api.kde-look.org/2255098",
+        "kns://wallpaper.knsrc/api.kde-look.org/2255102",
+        "kns://wallpaper.knsrc/api.kde-look.org/2255109",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2255143"
     ]
 }
