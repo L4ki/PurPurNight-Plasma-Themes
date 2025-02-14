@@ -15,14 +15,14 @@
         "Name": "PurPurNight-Global-6",
         "Description": "PurPurNight Dark Global Theme by l4k1",
         "Id": "PurPurNight-Global-6",
-        "Version": "1.0",
+        "Version": "1.2",
         "License": "GPLv3",
         "Website": "https://github.com/L4ki/PurPurNight-Plasma-Themes"
     },
     "X-KPackage-Dependencies": [
         "kns://window-decorations.knsrc/api.kde-look.org/2255173",
         "kns://window-decorations.knsrc/api.kde-look.org/2255177",
-        "kns://colorschemes.knsrc/api.kde-look.org//2255149",
+        "kns://colorschemes.knsrc/api.kde-look.org/2255149",
         "kns://icons.knsrc/api.kde-look.org/2234790",
         "kns://icons.knsrc/api.kde-look.org/2234789",
         "kns://icons.knsrc/api.kde-look.org/2192428",
