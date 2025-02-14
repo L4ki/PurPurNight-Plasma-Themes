@@ -1,15 +1,16 @@
+[AdaptiveTransparency]
+enabled=true
+
 [ContrastEffect]
 enabled=true
 blur=1.0
-contrast=1.6
-intensity=1.6
-saturation=1.6
+contrast=0.85
+intensity=1.1
+saturation=1.7
 
 [BlurBehindEffect]
 enabled=true
 
-[AdaptiveTransparency]
-enabled=true
 
 [Wallpaper]
 defaultWallpaperTheme=PurPurNight
