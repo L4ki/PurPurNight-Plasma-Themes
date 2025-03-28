@@ -36,7 +36,7 @@ Screenshot:
 
 ![logo-5](https://github.com/user-attachments/assets/845857b3-2887-4e37-a258-3444a28704ff)
 
-Changelog: 21.03.2025.
+Changelog: 28.03.2025.
 ----------------------
 
 GTK-Theme
