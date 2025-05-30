@@ -36,13 +36,13 @@ Screenshot:
 
 ![logo-5](https://github.com/user-attachments/assets/845857b3-2887-4e37-a258-3444a28704ff)
 
-Changelog: 23.05.2025.
+Changelog: 30.05.2025.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: main.rc
+Update: styles
 
 Plasma Theme
 ------------
