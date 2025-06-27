@@ -13,7 +13,8 @@ Download: https://store.kde.org/p/2255181
     <h2>Donate</h2>
     <h2>If you like my project, you can donate at:</h2>
     <a href="https://www.paypal.com/paypalme/VesnaLazic">
-    <img src="PayPal.png" alt="PayPal" />
+    <img src="![68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f7765627374617469632f6d6b74672f4c6f676f2f70702d6c6f676f2d31303070782e706e67](https://github.com/user-attachments/assets/cc69c7a4-4119-44d0-af9b-2ee65f0c520b)
+.png" alt="PayPal" />
     </a>
   </body>
 </html>
