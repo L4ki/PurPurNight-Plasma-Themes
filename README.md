@@ -47,4 +47,4 @@ Update: styles
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: metadata.json
